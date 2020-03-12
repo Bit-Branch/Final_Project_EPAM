@@ -1,0 +1,6 @@
+id: 0~idWallet: 0~date: Sun Apr 05 00:00:00 MSK 2020~amount: 200.0~category: FOOD
+
+id: 1~idWallet: 1~date: Sun Mar 15 00:00:00 MSK 2020~amount: 150.0~category: TRANSPORT
+
+id: 3~idWallet: 1~date: Mon Feb 17 00:00:00 MSK 2020~amount: 18.0~category: COFFEE
+

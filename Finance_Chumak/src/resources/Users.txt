@@ -1,0 +1,2 @@
+id: 1~login: user~password: password~firstName: Paul~lastName: Chumak~userType: USER
+id: 2~login: admin~password: passw~firstName: Genry~lastName: Loft~userType: ADMIN

@@ -1,0 +1,4 @@
+id: 0~idUser: 1~name: Wallet1~budget: 500.0
+
+id: 1~idUser: 1~name: Wallet 1~budget: 733.0
+
